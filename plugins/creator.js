@@ -22,29 +22,29 @@ let teksnomor = (
 )
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown1 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1])
-let teksbio = `┆⫹⫺ 💌 Nama : Aldi
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Pria
+let teksbio = `┆⫹⫺ 💌 Nama : Galuh
+┆⫹⫺ ✉️ Nama RL : Corleone
+┆⫹⫺ ♂️ Gender : unknown 
 ┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 16 - 10 - 2007
-┆⫹⫺ 🎨 Umur : 15
-┆⫹⫺ 🧮 Kelas : IX
-┆⫹⫺ 🧩 Hobby : 𝙼𝚘𝚍𝚒𝚏𝚒𝚔𝚊𝚜𝚒 𝚙𝚎𝚛𝚊𝚗𝚐𝚔𝚊𝚝 𝚕𝚞𝚗𝚊𝚔
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Sumatera Utara
+┆⫹⫺ ⏰ Tanggal lahir : Dah tua
+┆⫹⫺ 🎨 Umur : Gk perlu tau
+┆⫹⫺ 🧮 Kelas : dah tamat 
+┆⫹⫺ 🧩 Hobby : mencintaimu 
+┆⫹⫺ 💬 Sifat : pikir sendiri 
+┆⫹⫺ 🗺️ Tinggal : Indonesia Surabaya 
 └––––––––––––·•
 `
 let ppown2 = await conn.profilePictureUrl(nomorown2 + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio2 = `┆⫹⫺ 💌 Nama : Aisyah
-┆⫹⫺ ✉️ Nama RL : HAMBA ALLAH
-┆⫹⫺ ♂️ Gender : Wanita
+let teksbio2 = `┆⫹⫺ 💌 Nama : Nura
+┆⫹⫺ ✉️ Nama RL : Corleone 
+┆⫹⫺ ♂️ Gender : unknown 
 ┆⫹⫺ 🕋 Agama : Islam
-┆⫹⫺ ⏰ Tanggal lahir : 07 - 05 - 2007
-┆⫹⫺ 🎨 Umur : 15
-┆⫹⫺ 🧮 Kelas : IX
-┆⫹⫺ 🧩 Hobby : Banyak
-┆⫹⫺ 💬 Sifat : ASIK,BAIK,RAMAH
-┆⫹⫺ 🗺️ Tinggal : Indonesia, Bengkulu
+┆⫹⫺ ⏰ Tanggal lahir : dah tua 
+┆⫹⫺ 🎨 Umur : xx
+┆⫹⫺ 🧮 Kelas : tamat ngtd
+┆⫹⫺ 🧩 Hobby : Mencintaimu
+┆⫹⫺ 💬 Sifat : Aku juga gk tau
+┆⫹⫺ 🗺️ Tinggal : Indonesia Surabaya 
 └––––––––––––·•
 `
 
@@ -63,8 +63,8 @@ title: `⫹⫺ Oᴛʜᴇʀ ⫹⫺`,
 rows: [
 {title: "⸙ Kontak", rowId: ".owner kontak"},
 {title: "⸙ Nomor", rowId: ".owner nomor"},
-{title: "⸙ Biodata Aldi", rowId: ".owner bio"},
-{title: "⸙ Biodata Aisyah", rowId: ".owner bio2"},
+{title: "⸙ Biodata Galuh", rowId: ".owner bio"},
+{title: "⸙ Biodata Nura", rowId: ".owner bio2"},
 {title: "⸙ Script", rowId: ".sc"},
 ]}, {
 title: `⬔ Sᴜᴘᴘᴏʀᴛ Mᴇ ⬔`,
