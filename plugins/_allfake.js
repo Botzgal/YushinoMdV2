@@ -24,8 +24,8 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 		global.kontak2 = [
-         [owner[0], await conn.getName(owner[0] + '6281361281833@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'fahriadison12@gmail.com', true],
-         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'fahriadison12@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
+         [owner[0], await conn.getName(owner[0] + '6285804081500@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'galuhpunya092@gmail.com', true],
+         [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'galuhpunya092@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
         ]
         
 		// ucapan ini mah
@@ -69,7 +69,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6285804081500-1625305606@g.us" } : {}) 
                        },
             message: { 
                "audioMessage": {
@@ -84,7 +84,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6285804081500-1625305606@g.us" } : {}) 
                        },
             message: { 
                "extendedTextMessage": {
@@ -168,7 +168,7 @@ handler.all = async function (m) {
             key: { 
                  fromMe: false,
                  participant: `0@s.whatsapp.net`, ...(m.chat ? 
-            { remoteJid: "6282127487538-1625305606@g.us" } : {}) 
+            { remoteJid: "6285804081500-1625305606@g.us" } : {}) 
                        },
             message: { 
                         "videoMessage": { 
